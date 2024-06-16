@@ -6,16 +6,27 @@ Este projeto contém testes unitários utilizando JUnit 5 para as classes `Venda
 
 src
 |-- main
+
 | |-- java
+
 | |-- com
+
 | |-- example
+
 | |-- Item.java
+
 | |-- Venda.java
+
 | |-- Main.java
+
 |-- test
+
 |-- java
+
 |-- com
+
 |-- example
+
 |-- ItemTest.java
 |-- VendaTest.java
 
