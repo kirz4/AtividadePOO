@@ -5,6 +5,7 @@ Este projeto contém testes unitários utilizando JUnit 5 para as classes `Venda
 ## Estrutura do Projeto
 
 src
+
 |-- main
 
 | |-- java
@@ -28,6 +29,7 @@ src
 |-- example
 
 |-- ItemTest.java
+
 |-- VendaTest.java
 
 
